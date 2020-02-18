@@ -1,0 +1,11 @@
+C:\Users\Dayvidson\source\repos\Udemy\01C#BasicsForBeginners\CSharpFundamentalsExercises02\CSharpFundamentalsExercises02\obj\Debug\netcoreapp2.1\CSharpFundamentalsExercises02.csprojAssemblyReference.cache
+C:\Users\Dayvidson\source\repos\Udemy\01C#BasicsForBeginners\CSharpFundamentalsExercises02\CSharpFundamentalsExercises02\obj\Debug\netcoreapp2.1\CSharpFundamentalsExercises02.csproj.CoreCompileInputs.cache
+C:\Users\Dayvidson\source\repos\Udemy\01C#BasicsForBeginners\CSharpFundamentalsExercises02\CSharpFundamentalsExercises02\obj\Debug\netcoreapp2.1\CSharpFundamentalsExercises02.AssemblyInfoInputs.cache
+C:\Users\Dayvidson\source\repos\Udemy\01C#BasicsForBeginners\CSharpFundamentalsExercises02\CSharpFundamentalsExercises02\obj\Debug\netcoreapp2.1\CSharpFundamentalsExercises02.AssemblyInfo.cs
+C:\Users\Dayvidson\source\repos\Udemy\01C#BasicsForBeginners\CSharpFundamentalsExercises02\CSharpFundamentalsExercises02\bin\Debug\netcoreapp2.1\CSharpFundamentalsExercises02.deps.json
+C:\Users\Dayvidson\source\repos\Udemy\01C#BasicsForBeginners\CSharpFundamentalsExercises02\CSharpFundamentalsExercises02\bin\Debug\netcoreapp2.1\CSharpFundamentalsExercises02.runtimeconfig.json
+C:\Users\Dayvidson\source\repos\Udemy\01C#BasicsForBeginners\CSharpFundamentalsExercises02\CSharpFundamentalsExercises02\bin\Debug\netcoreapp2.1\CSharpFundamentalsExercises02.runtimeconfig.dev.json
+C:\Users\Dayvidson\source\repos\Udemy\01C#BasicsForBeginners\CSharpFundamentalsExercises02\CSharpFundamentalsExercises02\bin\Debug\netcoreapp2.1\CSharpFundamentalsExercises02.dll
+C:\Users\Dayvidson\source\repos\Udemy\01C#BasicsForBeginners\CSharpFundamentalsExercises02\CSharpFundamentalsExercises02\bin\Debug\netcoreapp2.1\CSharpFundamentalsExercises02.pdb
+C:\Users\Dayvidson\source\repos\Udemy\01C#BasicsForBeginners\CSharpFundamentalsExercises02\CSharpFundamentalsExercises02\obj\Debug\netcoreapp2.1\CSharpFundamentalsExercises02.dll
+C:\Users\Dayvidson\source\repos\Udemy\01C#BasicsForBeginners\CSharpFundamentalsExercises02\CSharpFundamentalsExercises02\obj\Debug\netcoreapp2.1\CSharpFundamentalsExercises02.pdb
