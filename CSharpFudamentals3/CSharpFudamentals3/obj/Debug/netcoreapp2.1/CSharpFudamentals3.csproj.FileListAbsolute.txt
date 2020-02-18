@@ -1,0 +1,11 @@
+C:\Users\Dayvidson\source\repos\CSharpFudamentals3\CSharpFudamentals3\obj\Debug\netcoreapp2.1\CSharpFudamentals3.csproj.CoreCompileInputs.cache
+C:\Users\Dayvidson\source\repos\CSharpFudamentals3\CSharpFudamentals3\obj\Debug\netcoreapp2.1\CSharpFudamentals3.AssemblyInfoInputs.cache
+C:\Users\Dayvidson\source\repos\CSharpFudamentals3\CSharpFudamentals3\obj\Debug\netcoreapp2.1\CSharpFudamentals3.AssemblyInfo.cs
+C:\Users\Dayvidson\source\repos\CSharpFudamentals3\CSharpFudamentals3\bin\Debug\netcoreapp2.1\CSharpFudamentals3.deps.json
+C:\Users\Dayvidson\source\repos\CSharpFudamentals3\CSharpFudamentals3\bin\Debug\netcoreapp2.1\CSharpFudamentals3.runtimeconfig.json
+C:\Users\Dayvidson\source\repos\CSharpFudamentals3\CSharpFudamentals3\bin\Debug\netcoreapp2.1\CSharpFudamentals3.runtimeconfig.dev.json
+C:\Users\Dayvidson\source\repos\CSharpFudamentals3\CSharpFudamentals3\bin\Debug\netcoreapp2.1\CSharpFudamentals3.dll
+C:\Users\Dayvidson\source\repos\CSharpFudamentals3\CSharpFudamentals3\bin\Debug\netcoreapp2.1\CSharpFudamentals3.pdb
+C:\Users\Dayvidson\source\repos\CSharpFudamentals3\CSharpFudamentals3\obj\Debug\netcoreapp2.1\CSharpFudamentals3.dll
+C:\Users\Dayvidson\source\repos\CSharpFudamentals3\CSharpFudamentals3\obj\Debug\netcoreapp2.1\CSharpFudamentals3.pdb
+C:\Users\Dayvidson\source\repos\CSharpFudamentals3\CSharpFudamentals3\obj\Debug\netcoreapp2.1\CSharpFudamentals3.csprojAssemblyReference.cache
